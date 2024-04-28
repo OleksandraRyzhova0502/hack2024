@@ -2,7 +2,7 @@
 
 ## Task 1
 #### Report - https://lookerstudio.google.com/reporting/4636adc1-80f9-4f9b-afb2-82898031a7f6
-#### Results - 
+#### Results - task1_recomendations.txt
 
 
 ## Task 2
