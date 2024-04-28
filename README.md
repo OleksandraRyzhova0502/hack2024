@@ -1,7 +1,7 @@
 # hack2024
 
 ## Task 1
-/nReport - 
+\nReport - 
 /nResults - 
 
 
